@@ -9,14 +9,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "Da",
-                "marker-group": "Venthalyr_Minor",
+                "popup-text": "Old Town",
+                "marker-group": "Old_Town",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -10000,-10000
+                    -562,-245
                 ]
             }
         },
