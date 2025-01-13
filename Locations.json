@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "Da",
+                "marker-group": "Venthalyr_Minor",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10000,-10000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "Ooga booga",
+                "marker-group": "Markhalyr",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   0,0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "I like banana",
+                "marker-group": "Monkhalyr",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   0,0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "Pls work",
+                "marker-group": "Monkhalyr_Minor",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   10,10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "Holla",
+                "marker-group": "Ruins",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   20,20
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "Hello",
+                "marker-group": "Anthalyr",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   30,30
+                ]
+            }
+        }
+	]
+}
