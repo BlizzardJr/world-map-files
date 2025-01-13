@@ -66,14 +66,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "Pls work",
-                "marker-group": "Monkhalyr_Minor",
+                "popup-text": "Al-Mohawia",
+                "marker-group": "Al-Mohawia",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   10,10
+                   752,-287
                 ]
             }
         },
