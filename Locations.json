@@ -10,7 +10,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><strong>The Thicket</strong> - Old Town</a>",
-                "marker-group": "Old Town",
+                "marker-group": "Old_Town",
                 "ID": "1"
             },
             "geometry": {
