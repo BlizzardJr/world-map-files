@@ -28,14 +28,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "Ooga booga",
-                "marker-group": "Markhalyr",
+                "popup-text": "Angel Falls",
+                "marker-group": "Angel Falls",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   0,0
+                   374,353
                 ]
             }
         },
