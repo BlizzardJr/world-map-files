@@ -47,14 +47,14 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "I like banana",
-                "marker-group": "Monkhalyr",
+                "popup-text": "Levil",
+                "marker-group": "Levil",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   0,0
+                   469,-305
                 ]
             }
         },
