@@ -9,7 +9,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><strong>Old Town</strong> - The Capital</a>",
+                "popup-text": "<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target='_blank'> <strong>Old Town</strong> - The Capital</a>",
                 "marker-group": "Old_Town",
                 "ID": "1"
             },
